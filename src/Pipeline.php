@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Qystral;
 
 use Qystral\Contract\Task;
